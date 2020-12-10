@@ -308,6 +308,9 @@ plt.gca().set_ylim([-2,3])
 plt.savefig('denclue_T2.png')
 plt.show()
 
-    
+#shows the cluster info
+D.clust_info_
+#gives the array corresponding to the vector and the number shown are the cluster they belong to
+D.labels_       
     
     
